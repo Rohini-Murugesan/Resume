@@ -1,0 +1,65 @@
+#header{
+    height: 270px;
+    border-radius: 5px;
+    background-image: url("Laptop.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: inset 3px 4px 250px rgb(5, 2, 39);
+
+}
+
+#professionalList,#personalList,#contactList,#References{
+    font-size: small;
+    text-align: left;
+}
+
+#highlightSide{
+    border-radius: 5px;
+    /* height: px; */
+    background-color: rgb(31, 26, 53);
+}
+
+#highlightMain{
+    border-radius: 5px;
+    background-color: rgb(169, 166, 184);
+    color:  rgb(31, 26, 53);
+}
+
+#HeaderSpan{
+    font-size: 50px;
+    font-family: 'Signika', sans-serif;
+}
+
+#HeaderSpan2{
+    /* color: rgb(30, 30, 77); */
+    font-size: 30px;
+    font-family: 'Signika', sans-serif;
+}
+
+#ProfileImage{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    position: relative;
+    box-shadow: 5px 8px #424b64;
+    top: 4.9vh;
+    z-index: 1;
+    /* border: 2px solid; */
+}
+
+#mainhighlight1{
+    margin-top: 170px;
+
+}
+
+
+.hrclass{
+    border: 1px solid rgb(31, 26, 53);
+    border-radius: 5px;
+}
+
+.topic{
+    font-weight: bolder;
+    color:  rgb(31, 26, 53);
+}
+
